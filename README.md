@@ -7,7 +7,7 @@ This repository contains all relevant materials for our entry.
 
 Please refer to the detailed project documentation in the PDF below:
 
-- [Hackathon_Documentation.pdf](./artifact/Geoversity_OmkarJadhav_Jazzee2025.pdf)
+- [Hackathon_Documentation.pdf](https://github.com/omkarjadhav296/Geoversity_OmkarJadhav_Jazzee2025/blob/main/Geoversity_OmkarJadhav_Jazzee2025.pdf)
 
 ## 🎥 Demo Video
 
